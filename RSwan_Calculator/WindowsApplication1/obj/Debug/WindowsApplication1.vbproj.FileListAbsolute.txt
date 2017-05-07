@@ -1,0 +1,37 @@
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Calculator.resources
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\csu\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Calculator.resources
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Swanjae\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.Calculator.resources
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Reginald Swan Jr\Dropbox\skool\comp science\GUI\RS_CT_project\RSwan_Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
